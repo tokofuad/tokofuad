@@ -1,0 +1,6 @@
+[submodule "themes/hargo"]
+	path = themes/hargo
+	url = git@github.com:themefisher/hargo.git
+[submodule "public"]
+	path = public
+	url = git@github.com:tokofuad/tokofuad.github.io.git
